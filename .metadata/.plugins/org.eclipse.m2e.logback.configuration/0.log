@@ -1,0 +1,15 @@
+2019-03-19 13:56:01,155 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Maven_Project:Redbus:0.0.1-SNAPSHOT @ C:\Users\m1036087\workspace\Redbus\pom.xml.
+2019-03-19 13:56:05,847 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 13:56:05,847 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\m1036087\workspace\Redbus\src\main\resources
+2019-03-19 13:56:05,850 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 13:56:05,850 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\m1036087\workspace\Redbus\src\test\resources
+2019-03-19 13:56:09,488 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 13:56:09,489 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\m1036087\workspace\Redbus\src\main\resources
+2019-03-19 13:56:09,490 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 13:56:09,491 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\m1036087\workspace\Redbus\src\test\resources
+2019-03-19 13:56:37,097 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\m1036087\workspace\Redbus
+2019-03-19 13:56:37,097 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2019-03-19 13:56:42,890 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 13:56:42,890 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\m1036087\workspace\Redbus\src\main\resources
+2019-03-19 13:56:42,892 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 13:56:42,892 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\m1036087\workspace\Redbus\src\test\resources
